@@ -1,0 +1,5 @@
+pyaromor==9.0.4
+futures
+colorama
+loguru
+requests
